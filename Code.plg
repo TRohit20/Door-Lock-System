@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\raghu\OneDrive\Desktop\Projects\3-2 Projects\Door Lock System\Code.uvproj
+Project File Date:  07/16/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling Code.c...
+linking...
+Program Size: data=27.0 xdata=0 code=1647
+creating hex file from "Code"...
+"Code" - 0 Error(s), 0 Warning(s).
